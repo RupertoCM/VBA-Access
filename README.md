@@ -1,2 +1,2 @@
 # VBA-Access
-Funciones de VBA para Microsoft Accress
+Funciones de VBA para Microsoft Access
